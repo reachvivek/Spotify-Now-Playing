@@ -8,7 +8,7 @@
   <td width="50%">
 
 <br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
-  [![Visits](https://badges.pufler.dev/visits/reachvivek/reachvivek?logo=GitHub&label=github%20visits&color=blue&logoColor=white&style=flat-square)](https://github.com/novatorem)
+  [![Visits](https://badges.pufler.dev/visits/reachvivek/reachvivek?logo=GitHub&label=github%20visits&color=blue&logoColor=white&style=flat-square)](https://github.com/reachvivek)
 </p>
   </td>
   </table>
